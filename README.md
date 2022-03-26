@@ -12,7 +12,9 @@
  ## Low Level Requirements
 | ID |Low Level Requirements | Status|
 |------|---------|--------|
-  |LLR1 | We shall check the brightness of the bulb|To be done      |
-  | LLR2| We shall regulate the speed of the fan|To be done      |
-  |LLR3 | We shall check the temperature of the fridge|To be done      |
-  |LLR4 | The controller controls the speed of the fan, temperature of the fridge and brigthness of the light|To be done     |
+  |LLR1 | It shall have power ON/OFF button for the light.|To be done      |
+  | LLR2| It shall have power ON/OFF button for the fridge.|To be done      |
+  |LLR3 | It shall have power ON/OFF button for the fan.|To be done      |
+  |LLR4 | It shall have three different modes of brightness for the light.|To be done     |
+  |LLR5 | It shall have three different speeds for the fan | To be done |
+  |LLR6 | It shall have three different modes of temperature for the fridge.| To be done |
