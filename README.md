@@ -12,7 +12,7 @@
  ## Low Level Requirements
 | ID |Low Level Requirements | Status|
 |------|---------|--------|
-  |LLR1 | |To be done      |
-  | L2| The led should glow when the fridge is switched on and should not glow when the switch is off|To be done      |
-  |L3 | The led should glow when the fan is switched on and should not glow when the switch is off|To be done      |
-  |L4 | The controller controls the speed of the fan, temperature of the fridge and brigthness of the light|To be done     | 
+  |LLR1 | We shall check the brightness of the bulb|To be done      |
+  | LLR2| We shall regulate the speed of the fan|To be done      |
+  |LLR3 | We shall check the temperature of the fridge|To be done      |
+  |LLR4 | The controller controls the speed of the fan, temperature of the fridge and brigthness of the light|To be done     |
