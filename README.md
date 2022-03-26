@@ -6,7 +6,7 @@
 | H2| Fridge |     |
 | H3| Fan  |      |
 | H4| Controller |      |
-|H5 | Unique Id  |      |
+
   
  ## Low Level Requirements
 | ID |Low Level Requirements | Status|
